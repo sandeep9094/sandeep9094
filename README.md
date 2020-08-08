@@ -11,7 +11,9 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="sandeep9094 | Android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/android.svg" />][linkedin]
+[<img align="left" alt="sandeep9094 | Android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/android.svg" />][android]
+[<img align="left" alt="sandeep9094 | Kotlin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kotlin.svg" />][kotlin]
+[<img align="left" alt="sandeep9094 | Kotlin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/java.svg" />][android]
 
 <br />
 <br />
@@ -31,3 +33,5 @@
 [linkedin]: https://www.linkedin.com/in/sandeepkumar9094/
 [medium]: https://medium.com/@sandeepkumar9094
 [stackoverflow]: https://stackoverflow.com/users/11431011/sandeep-kumar?tab=profile
+[android]: https://developer.android.com/
+[kotlin]: https://developer.android.com/kotlin
