@@ -1,20 +1,3 @@
-### Hi there 👋
-
-<!--
-**sandeep9094/sandeep9094** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Hi there, I'm Sandeep Kumar - Android | Kotlin | Java 👋
 
 
@@ -22,6 +5,7 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="sandeep9094 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="sandeep9094 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />][medium]
+[<img align="left" alt="sandeep9094 | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />][stackoverflow]
 
 <br />
 
@@ -46,3 +30,4 @@ Here are some ideas to get you started:
 
 [linkedin]: https://www.linkedin.com/in/sandeepkumar9094/
 [medium]: https://medium.com/@sandeepkumar9094
+[stackoverflow]: https://stackoverflow.com/users/11431011/sandeep-kumar
