@@ -1,5 +1,6 @@
-### Hi there, I'm Sandeep Kumar - Android | Kotlin | Java 👋
+### Hi there, I'm Sandeep Kumar 👋
 
+Android Developer
 
 ### Connect with me:
 
