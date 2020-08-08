@@ -33,7 +33,7 @@
 
 ---
 
-<img align="left" alt="sandeep9094 Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sandeep9094&show_icons=true&hide_border=true" />
+<img align="left" alt="sandeep9094 Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sandeep9094&show_icons=true&hide_border=true&count_private=true" />
 
 [linkedin]: https://www.linkedin.com/in/sandeepkumar9094/
 [medium]: https://medium.com/@sandeepkumar9094
