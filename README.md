@@ -13,7 +13,8 @@
 
 [<img align="left" alt="sandeep9094 | Android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/android.svg" />][android]
 [<img align="left" alt="sandeep9094 | Kotlin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kotlin.svg" />][kotlin]
-[<img align="left" alt="sandeep9094 | Kotlin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/java.svg" />][android]
+[<img align="left" alt="sandeep9094 | Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/java.svg" />][android]
+[<img align="left" alt="sandeep9094 | Gradle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/java.svg" />][gradle]
 
 <br />
 <br />
@@ -35,3 +36,4 @@
 [stackoverflow]: https://stackoverflow.com/users/11431011/sandeep-kumar?tab=profile
 [android]: https://developer.android.com/
 [kotlin]: https://developer.android.com/kotlin
+[gradle]: https://gradle.org/
