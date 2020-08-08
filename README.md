@@ -33,7 +33,7 @@
 
 ---
 
-<img align="left" alt="sandeep9094's Github Stats" src="https://github-readme-stats.sandeep9094.vercel.app/api?username=sandeep9094&show_icons=true&hide_border=true" />
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sandeep9094&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/sandeepkumar9094/
 [medium]: https://medium.com/@sandeepkumar9094
