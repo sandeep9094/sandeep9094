@@ -30,4 +30,4 @@
 
 [linkedin]: https://www.linkedin.com/in/sandeepkumar9094/
 [medium]: https://medium.com/@sandeepkumar9094
-[stackoverflow]: https://stackoverflow.com/users/11431011/sandeep-kumar
+[stackoverflow]: https://stackoverflow.com/users/11431011/sandeep-kumar?tab=profile
