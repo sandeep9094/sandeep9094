@@ -14,7 +14,7 @@
 [<img align="left" alt="sandeep9094 | Android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/android.svg" />][android]
 [<img align="left" alt="sandeep9094 | Kotlin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kotlin.svg" />][kotlin]
 [<img align="left" alt="sandeep9094 | Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/java.svg" />][android]
-[<img align="left" alt="sandeep9094 | Gradle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/java.svg" />][gradle]
+[<img align="left" alt="sandeep9094 | Gradle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gradle.svg" />][gradle]
 
 <br />
 <br />
