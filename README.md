@@ -3,7 +3,7 @@
 -  I’m Android Developer - Kotlin | Java
 -  I’m currently learning everything in software development and life
 -  I’m looking to collaborate in open-source
--  Fun fact: I love to travel and create mobile apps.
+-  Fun fact: I love to travel.
 
 ### Connect with me:
 
