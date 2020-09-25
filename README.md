@@ -33,6 +33,13 @@
 
 ---
 
+### Projects
+
+- [Bored - I am bored, what to do](https://play.google.com/store/apps/details?id=com.developidea.bored)
+- [Brain Trainer - Math BrainStorming Quiz](https://play.google.com/store/apps/details?id=sandeep.braintrainer)
+
+---
+
 <img align="left" alt="sandeep9094 Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sandeep9094&show_icons=true&hide_border=true&count_private=true" />
 
 [linkedin]: https://www.linkedin.com/in/sandeepkumar9094/
