@@ -25,7 +25,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### Blog
 <!-- BLOG-POST-LIST:START -->
 - [5 Android Libraries for Beginners](https://medium.com/the-innovation/5-android-libraries-for-beginners-9c6205288276)
 - [Things Learned the Hard Way in Software Development](https://medium.com/the-innovation/things-learned-hard-way-in-software-development-cfec6e8a9ed7)
