@@ -38,7 +38,6 @@
 - [Bored - I am bored, what to do](https://play.google.com/store/apps/details?id=com.developidea.bored)
 - [Brain Trainer - Math BrainStorming Quiz](https://play.google.com/store/apps/details?id=sandeep.braintrainer)
 
----
 
 
 [linkedin]: https://www.linkedin.com/in/sandeepkumar9094/
