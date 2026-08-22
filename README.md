@@ -23,22 +23,6 @@
 <br />
 <br />
 
----
-
-### Latest Blogs
-<!-- BLOG-POST-LIST:START -->
-- [5 Android Libraries for Beginners](https://medium.com/the-innovation/5-android-libraries-for-beginners-9c6205288276)
-- [Things Learned the Hard Way in Software Development](https://medium.com/the-innovation/things-learned-hard-way-in-software-development-cfec6e8a9ed7)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### Projects
-
-- [Bored - I am bored, what to do](https://play.google.com/store/apps/details?id=com.developidea.bored)
-- [Brain Trainer - Math BrainStorming Quiz](https://play.google.com/store/apps/details?id=sandeep.braintrainer)
-
-
 
 [linkedin]: https://www.linkedin.com/in/sandeepkumar9094/
 [medium]: https://medium.com/@sandeepkumar9094
